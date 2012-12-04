@@ -1,3 +1,8 @@
+/* LoadSequence.js: A Simple script loader for Javascript
+ * version: 0.1
+ * By Ali Najafizadeh, http://morezilla.net
+ * MIT Licensed.
+ */
 function LoadSequence(options) {
     function deleteScriptElement(script) {
         if( script ) {
